@@ -8,6 +8,9 @@ dinner
 baklava
 # Local Netlify folder
 .netlify
+/.yarn/*
+!/.yarn/plugins
+!/.yarn/releases
 
 .idea/
 */.idea/
